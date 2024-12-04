@@ -1,3 +1,5 @@
+![1](https://github.com/user-attachments/assets/52254bb5-e657-4bec-b22e-e5a5e74c0d40)
+
 # 💫 About Me:
 🎮A beginner looking to develop rhythm game<br/>
 🖌 Passionate about character design and drawing comics/art<br/>
