@@ -1,4 +1,4 @@
-<div align="center">
+![1](https://github.com/user-attachments/assets/52254bb5-e657-4bec-b22e-e5a5e74c0d40)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="200" src="[https://i.imgflip.com/65efzo.gif](https://github.com/user-attachments/assets/638422c1-53fc-49cb-9348-f4c0655554db)"  />
+<img align="right" height="200" src="(https://github.com/user-attachments/assets/638422c1-53fc-49cb-9348-f4c0655554db)"  />
 
 ###
 
