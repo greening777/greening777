@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="200" src="(https://github.com/user-attachments/assets/638422c1-53fc-49cb-9348-f4c0655554db)"  />
+<img align="right" height="200" src="https://github.com/user-attachments/assets/e3a72371-1435-40c0-b04c-009aac4b465b"  />
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Socials</h2>
 
 ###
 
